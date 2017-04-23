@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ErrorDisplay()
+comment0.text=\r\n\ A\ constructor\ of\ Type\ 'ErrorDisplay'\ which\ takes\ no\ parameters\r\n
+comment1.params=errorType
+comment1.target=ErrorDisplay(java.lang.String)
+comment1.text=\r\n\ A\ constructor\ taking\ 'errorType'\ when\ a\ new\ object\ of\ ErrorDispaly\ is\ created,\ which\ makes\ it\ able\ to\ specify\ what\ kind\ of\ error\ happens\r\n\ @param\ errorType\r\n
+comment2.params=
+comment2.target=void\ initialize()
+comment2.text=\r\n\ Initialize\ the\ contents\ of\ the\ frame.\r\n\ \r\n
+comment3.params=e
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+numComments=4

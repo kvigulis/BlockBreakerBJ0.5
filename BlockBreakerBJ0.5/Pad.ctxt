@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=height\ width\ horizontalPos\ verticalPos\ wallInteraction
+comment0.target=Pad(float,\ float,\ float,\ float,\ boolean)
+comment0.text=\r\n\ Creates\ a\ pad\ with\ defined\ parameters\r\n\ \r\n\ @param\ height\ Defines\ the\ height\ of\ the\ pad\r\n\ @param\ width\ Defines\ the\ width\ of\ the\ pad\r\n\ @param\ horizontalPos\ Defines\ the\ horizontal\ position\ of\ the\ pad\r\n\ @param\ verticalPos\ Defines\ the\ vertical\ position\ of\ the\ pad\r\n\ @param\ wallInteraction\ Defines\ a\ parameter,\ chich\ specifies\ if\ the\ pad\ touches\ the\ wall\r\n
+comment1.params=cursorPosX\ windowWidth\ pads
+comment1.target=void\ draw(float,\ float,\ Pad[])
+comment1.text=\r\n\ Draws\ the\ pad\r\n\r\n\ @param\ cursorPosX\ Cursor/mouse\ position\r\n\ @param\ windowWidth\ Width\ of\ the\ window\ in\ which\ the\ pad\ will\ be\ drawn\r\n\ @param\ pads\ Supplies\ an\ array\ of\ pads\ to\ be\ drawn\r\n
+comment2.params=
+comment2.target=float\ getHorizontalPosition()
+comment2.text=\r\n\ Retrieves\ horizontal\ position\ of\ the\ pad\r\n\ \r\n\ @return\ Horizontal\ position\ of\ the\ pad\r\n
+comment3.params=
+comment3.target=float\ getVerticalPosition()
+comment3.text=\r\n\ Retrieves\ horizontal\ position\ of\ the\ pad\r\n\r\n\ @return\ Horizontal\ position\ of\ the\ pad\r\n
+comment4.params=
+comment4.target=float\ getHeight()
+comment4.text=\r\n\ Retrieves\ height\ of\ the\ pad\r\n\r\n\ @return\ Height\ of\ the\ pad\r\n
+comment5.params=
+comment5.target=float\ getWidth()
+comment5.text=\r\n\ Retrieves\ width\ of\ the\ pad\r\n\r\n\ @return\ Width\ of\ the\ pad\r\n
+comment6.params=w
+comment6.target=void\ setWidth(float)
+comment6.text=\r\n\ Sets\ width\ of\ the\ pad\r\n\r\n\ @param\ w\ Width\ of\ the\ pad\r\n
+numComments=7

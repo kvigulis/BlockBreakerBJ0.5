@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name\ pointStore
+comment0.target=ScoreStorage(java.lang.String,\ int)
+comment0.text=\r\n\ Takes\ the\ player's\ name\ and\ score\ and\ writes\ it\ into\ a\ file\r\n\r\n\ @param\ name\ Player's\ name\r\n\ @param\ pointStore\ Player's\ score\r\n
+comment1.params=fileName
+comment1.target=java.lang.String\ readTextFile(java.lang.String)
+comment1.text=\r\n\ This\ method\ reads\ the\ whole\ file\r\n\ @param\ fileName\ This\ is\ the\ name\ of\ the\ file\ to\ be\ read\r\n\ @return\ String\ This\ returns\ all\ of\ the\ text\ in\ the\ file\ \r\n
+comment2.params=fileName
+comment2.target=java.util.List\ readTextFileByLines(java.lang.String)
+comment2.text=\r\n\ This\ method\ reads\ the\ whole\ file\ line\ by\ line\r\n\ @param\ fileName\ This\ is\ the\ name\ of\ the\ file\ to\ be\ read\r\n\ @return\ List\ This\ returns\ all\ of\ the\ text\ in\ the\ file\ in\ a\ list\ of\ Strings\ \r\n
+comment3.params=fileName\ content
+comment3.target=void\ writeToTextFile(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ This\ method\ writes\ a\ given\ String\ to\ a\ file\r\n\ @param\ fileName\ This\ is\ the\ name\ of\ the\ file\ to\ be\ written\ to\r\n\ @param\ content\ This\ is\ the\ String\ to\ be\ written\ \r\n
+comment4.params=fileName\ content
+comment4.target=void\ appendToTextFile(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ This\ method\ appends\ a\ given\ String\ to\ the\ end\ of\ a\ file\r\n\ @param\ fileName\ This\ is\ the\ name\ of\ the\ file\ to\ be\ written\ to\r\n\ @param\ content\ This\ is\ the\ String\ to\ be\ appended\ \r\n
+comment5.params=fileName
+comment5.target=void\ clearFile(java.lang.String)
+comment5.text=\r\n\ This\ method\ clears\ a\ file,\ making\ it\ empty\r\n\ @param\ fileName\ This\ is\ the\ name\ of\ the\ file\ to\ be\ cleared\r\n
+numComments=6

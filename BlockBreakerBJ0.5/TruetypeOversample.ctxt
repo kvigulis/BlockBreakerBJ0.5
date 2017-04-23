@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=window\ font
+comment0.target=TruetypeOversample(long,\ java.lang.String)
+comment0.text=\r\n\ TruetypeOversample\ Constructor\r\n\r\n\ @param\ window\ Window\ for\ the\ fonts\ to\ be\ applied\r\n
+comment1.params=font
+comment1.target=void\ load_fonts(java.lang.String)
+comment1.text=\r\n\ Method\ load_fonts\r\n\r\n
+comment2.params=x0\ y0\ x1\ y1\ s0\ t0\ s1\ t1
+comment2.target=void\ drawBoxTC(float,\ float,\ float,\ float,\ float,\ float,\ float,\ float)
+comment2.text=\r\n\ Method\ drawBoxTC\r\n\r\n\ @param\ x0\ A\ parameter\r\n\ @param\ y0\ A\ parameter\r\n\ @param\ x1\ A\ parameter\r\n\ @param\ y1\ A\ parameter\r\n\ @param\ s0\ A\ parameter\r\n\ @param\ t0\ A\ parameter\r\n\ @param\ s1\ A\ parameter\r\n\ @param\ t1\ A\ parameter\r\n
+comment3.params=x\ y\ font\ text
+comment3.target=void\ print(float,\ float,\ int,\ java.lang.String)
+comment3.text=\r\n\ Method\ print\r\n\r\n\ @param\ x\ A\ parameter\r\n\ @param\ y\ A\ parameter\r\n\ @param\ font\ A\ parameter\r\n\ @param\ text\ A\ parameter\r\n
+comment4.params=inputString\ posX\ getY\ red\ green\ blue
+comment4.target=void\ draw_world(java.lang.String,\ int,\ int,\ float,\ float,\ float)
+comment4.text=\r\n\ Method\ draw_world\r\n\r\n\ @param\ inputString\ A\ parameter\r\n
+comment5.params=window\ width\ height
+comment5.target=void\ windowSizeChanged(long,\ int,\ int)
+comment5.text=\r\n\ Method\ windowSizeChanged\r\n\r\n\ @param\ window\ A\ parameter\r\n\ @param\ width\ A\ parameter\r\n\ @param\ height\ A\ parameter\r\n
+comment6.params=
+comment6.target=void\ destroy()
+comment6.text=\r\n\ Method\ destroy\r\n\r\n
+numComments=7

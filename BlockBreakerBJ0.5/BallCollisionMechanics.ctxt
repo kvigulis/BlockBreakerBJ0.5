@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BallCollisionMechanics()
+comment1.params=deltaCursorX\ prevPadPos\ windowWidth\ windowHeight\ ball\ pads\ blocks\ blockColour\ wallSoftness\ padSideSoftness\ blockSideSoftness
+comment1.target=void\ updateBall(float,\ float,\ float,\ float,\ Ball,\ Pad[],\ Block[][],\ ColourOpenGL[][],\ float,\ float,\ float)
+comment1.text=\r\n\ Upadtes\ ball's\ position\ and\ defines\ its\ interaction\ with\ pads,\ walls\ and\ blocks\r\n\r\n\ @param\ deltaCursorX\ Change\ in\ cursor/mouse\ position\r\n\ @param\ prevPadPos\ Previous\ position\ of\ the\ pad\r\n\ @param\ windowWidth\ Window\ width\r\n\ @param\ windowHeight\ Window\ height\r\n\ @param\ ball\ An\ array\ of\ balls\r\n\ @param\ pads\ An\ array\ of\ pads\r\n\ @param\ blocks\ An\ array\ of\ blocks\r\n\ @param\ wallSoftness\ Softness\ of\ walls\r\n\ @param\ padSideSoftness\ Softness\ of\ sides\ of\ pads\r\n\ @param\ blockSideSoftness\ Softness\ of\ sides\ of\ blocks\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RecordGUI()
+comment0.text=\r\n\ Create\ the\ application.\ It\ it\ fails\ in\ initializing,\ print\ an\ error\r\n\ \ \r\n
+comment1.params=
+comment1.target=void\ initialize()
+comment1.text=\r\n\ Initialize\ the\ contents\ of\ the\ frame.\r\n\ All\ the\ records\ will\ be\ read\ from\ the\ file\ called\ 'score.txt'\r\n\ \r\n\ @throws\ IOException\ \r\n
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+numComments=3

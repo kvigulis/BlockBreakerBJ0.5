@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IOUtil()
+comment1.params=buffer\ newCapacity
+comment1.target=java.nio.ByteBuffer\ resizeBuffer(java.nio.ByteBuffer,\ int)
+comment1.text=\r\n\ Resizes\ the\ buffer\r\n\r\n\ @param\ buffer\ Buffer\ to\ resize\r\n\ @param\ newCapacity\ Size\ of\ the\ new\ buffer\r\n\ @return\ New/updated\ buffer\r\n
+comment2.params=resource\ bufferSize
+comment2.target=java.nio.ByteBuffer\ ioResourceToByteBuffer(java.lang.String,\ int)
+comment2.text=\r\n\ Reads\ the\ specified\ resource\ and\ returns\ the\ raw\ data\ as\ a\ ByteBuffer.\r\n\r\n\ @param\ resource\ \ \ the\ resource\ to\ read\r\n\ @param\ bufferSize\ the\ initial\ buffer\ size\r\n\r\n\ @return\ the\ resource\ data\r\n\r\n\ @throws\ IOException\ if\ an\ IO\ error\ occurs\r\n
+numComments=3
